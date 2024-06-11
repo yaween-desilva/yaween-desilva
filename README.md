@@ -6,6 +6,14 @@
 - 🚀 Passionate about coding, problem-solving, and continuous learning
 - 🌱 I’m currently learning about Spring Boot and Angular frameworks
 - 📫 How to reach me **yaweendesilva@gmail.com**
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🎓 Third-year Computer Science student
+- 💼 Software Engineering Intern at Epic Lanka
+- 🚀 Passionate about coding, problem-solving, and continuous learning
+- 🌱 I’m currently learning about Spring Boot and Angular frameworks
+- 📫 How to reach me **yaweendesilva@gmail.com**
 
 
 <h3>Skills</h3>
