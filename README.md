@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 About Me
-🎓 Third-year Computer Science student
-💼 Software Engineering Intern at Epic Lanka
-🚀 Passionate about coding, problem-solving, and continuous learning
+- 🎓 Third-year Computer Science student
+- 💼 Software Engineering Intern at Epic Lanka
+- 🚀 Passionate about coding, problem-solving, and continuous learning
+- 🌱 I’m currently learning about Spring Boot and Angular frameworks
 
 Skills
 • Languages: Python, Java, JavaScript, HTML, CSS, PHP
