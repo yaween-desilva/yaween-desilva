@@ -41,17 +41,24 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="intellij" width="40" height="40"/> 
-</a>
 
 </br>
 
+<h4>Other Technical Skills</h4>
+<a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_office_logo.svg" alt="Microsoft Office" width="40" height="40"/> 
+</a>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canva_Logo.png" alt="Canva" width="40" height="40"/> 
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/> 
+</a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://s.w.org/images/core/wordpress-logo.svg" alt="WordPress" width="40" height="40"/> 
+</a>
 
-• Languages: Python, Java, JavaScript, HTML, CSS, PHP
-• Frameworks: React, Node.js, ,  </a>Flask, Spring Boot
-• Tools: Git, Flutter, VS Code, IntelliJ IDEA
-• Other technical skills: Microsoft office, Canva, Figma, WordPress
+</br>
 
 <h3>Experience</h3>
 - Epic Lanka - Software Engineering Intern
