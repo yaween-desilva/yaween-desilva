@@ -2,11 +2,11 @@
 
 <h3>About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🎓 Third-year Computer Science student
-- 💼 Software Engineering Intern at Epic Lanka
-- 🚀 Passionate about coding, problem-solving, and continuous learning
-- 🌱 I’m currently learning about Spring Boot and Angular frameworks
+- 🎓 Third-year Computer Science student.
+- 💼 Software Engineering Intern at Epic Lanka.
+- 🚀 Passionate about coding, problem-solving, and continuous learning.
+- 🌱 I’m currently learning about Spring Boot and Angular frameworks.
+- 🔭 I’m currently working on a Spring boot assignment.
 - 📫 How to reach me **yaweendesilva@gmail.com**
 
 
