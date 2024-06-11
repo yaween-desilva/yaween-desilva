@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a Spring boot assignment.
 - 📫 How to reach me **yaweendesilva@gmail.com**
 
-
+</br>
 <h3>Skills and Technologies</h3>
 <h4>Languages</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -88,14 +88,7 @@
 </a>
 
 </br>
-
-<h3>Experience</h3>
-- Epic Lanka - Software Engineering Intern
-    - Developing and maintaining web applications
-    - Collaborating with cross-functional teams
-    - Implementing new features and fixing bugs
-
-
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -121,7 +114,7 @@ Here are some ideas to get you started:
 
 -->
 
-
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaween-desilva&show_icons=true&locale=en" alt="yaween-desilva" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaween-desilva&show_icons=true&locale=en&layout=compact" alt="yaween-desilva" /></p>
